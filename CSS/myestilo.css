@@ -1,0 +1,48 @@
+table, td, th{ 
+    border: 1px solid black;
+}
+
+td, th {
+    padding: 45px;
+    border-radius: 10px;
+}
+
+table {
+    background-color: rgb(255, 255, 255);
+    border-spacing: 10px ;
+    text-align: center;
+}
+
+div{
+    background-color: rgb(109, 122, 122);
+    width: 1350px;
+    height: 450px;
+    padding: 35px;
+}
+
+
+.cuadro2{
+    height: 150px;
+    left: 50px;
+    position: relative;
+    top: -520px;
+    left: 250px;
+
+}
+
+.cuadro3{
+    height: 150px;
+    left: 50px;
+    position: relative;
+    top: -1040px;
+    left: 500px;
+}
+
+.cuadro4{
+    height: 150px;
+    left: 50px;
+    position: relative;
+    top: -1295px;
+    left: 10px;
+    
+}
